@@ -1,0 +1,21 @@
+ body {
+     background: #f8f9fa;
+     height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ .note-card {
+     max-width: 500px;
+     width: 100%;
+     padding: 2rem;
+     background: #fff;
+     border-radius: 0.5rem;
+     box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
+ }
+
+ .form-label {
+     font-weight: 600;
+ }
